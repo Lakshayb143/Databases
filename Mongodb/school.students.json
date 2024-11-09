@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "65c8c34188409609ca41bb03"
+  },
+  "name": "Spongebob",
+  "age": 30,
+  "gpa": 7.5,
+  "fullTime": false
+},
+{
+  "_id": {
+    "$oid": "65c8c38688409609ca41bb04"
+  },
+  "name": "Lakshay",
+  "age": 20,
+  "gpa": 8,
+  "fullTime": false
+},
+{
+  "_id": {
+    "$oid": "65c8c48f88409609ca41bb05"
+  },
+  "name": "Aryan",
+  "age": 21,
+  "gpa": 8.9,
+  "fullTime": false
+},
+{
+  "_id": {
+    "$oid": "65c8c48f88409609ca41bb07"
+  },
+  "name": "Andrew",
+  "age": 12,
+  "gpa": 2.2,
+  "fullTime": true
+},
+{
+  "_id": {
+    "$oid": "65c8c77f88409609ca41bb08"
+  },
+  "name": "Lakshay",
+  "age": 18,
+  "cgpa": 9.2,
+  "admin": true,
+  "partTime": false,
+  "registerDate": {
+    "$date": "2024-02-11T13:11:27.027Z"
+  },
+  "graduationDate": null,
+  "courses": [
+    "Biology",
+    "Calculus"
+  ],
+  "address": {
+    "street": "123 fake",
+    "city": "California",
+    "zip": 132332
+  },
+  "fullTime": false
+}]
